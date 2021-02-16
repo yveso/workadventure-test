@@ -885,6 +885,26 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "animation":[
+                        {
+                         "duration":300,
+                         "tileid":9
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":10
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":11
+                        }, 
+                        {
+                         "duration":300,
+                         "tileid":8
+                        }],
+                 "id":2
+                }, 
+                {
                  "id":37,
                  "properties":[
                         {
